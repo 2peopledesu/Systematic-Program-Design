@@ -15,7 +15,6 @@
 ; Call it RocketDescent.
 ; 
 
-
 ;; RocketDescent is one of:
 ;; - Number(0, 100]
 ;; - false
